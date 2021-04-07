@@ -5,7 +5,7 @@ def cubes_of_natural_n(n):
     return sum
 
 def main():
-    si=0
+    suum=0
     n=int(input("Enter the value of n:                        "))
     sum=cubes_of_natural_n(n)
     print(f"sum of cubes of first n natural numbers is:  {sum} ")
