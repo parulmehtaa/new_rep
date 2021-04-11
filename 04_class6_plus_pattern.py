@@ -2,7 +2,7 @@
 def print_plus_pattern(n):
     for j in range(n):
         print("+",end=" ")
-    print("\n")
+    print("")
 
 def print_space_pattern(n):
     s=0
@@ -15,7 +15,7 @@ def print_space_pattern(n):
             print(" ",end=" ")
             #print(s)
             #s=s+1
-    print("\n")
+    print("")
 
 
 def main():
